@@ -37,8 +37,9 @@ def get_sentiment(text):
     ranking = ranking[::-1]
     sentiment=labels[ranking[0]]
     review["sentiment"]=sentiment
-    review["ranking"]=ranking[0]
+    review["ranking"]=str(ranking[0])
     res[index]=review
+  print(res)
   return res
 
 

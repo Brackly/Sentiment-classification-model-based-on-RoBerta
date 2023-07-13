@@ -12,7 +12,7 @@ def sentiment():
     reqdata = request.get_json()
     text = reqdata['text']
     sentiment = get_sentiment(text)
-    return {"sentiment":sentiment}
+    return {"response":sentiment}
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
