@@ -1,6 +1,5 @@
 from model import get_sentiment
 from flask import Flask, request
-import json
 
 app = Flask(__name__)
 

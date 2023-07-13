@@ -3,7 +3,7 @@ from transformers import TFAutoModelForSequenceClassification
 from transformers import AutoTokenizer
 from scipy.special import softmax
 import numpy as np
-
+import json
 
 def fetch_reviews(text):
   # Read the reviews from the JSON file
