@@ -1,0 +1,135 @@
+{
+    "safaricom": {
+        "0": {
+          "id": "a4e6f2",
+          "text": "MPesa is a game-changer! It has revolutionized the way I handle my finances.",
+          "datetime": "2023-07-13T09:30:00",
+          "user_id": "user123"
+        },
+        "1": {
+          "id": "b8d9c3",
+          "text": "I love the convenience of MPesa. Sending and receiving money has never been easier.",
+          "datetime": "2023-07-13T10:15:00",
+          "user_id": "user456"
+        },
+        "2": {
+          "id": "e1f3a6",
+          "text": "MPesa's user interface is simple and intuitive. It's easy to navigate and use.",
+          "datetime": "2023-07-13T11:20:00",
+          "user_id": "user789"
+        },
+        "3": {
+          "id": "g5h7j1",
+          "text": "I appreciate the security measures MPesa has in place. I feel confident in using it for transactions.",
+          "datetime": "2023-07-13T12:40:00",
+          "user_id": "user321"
+        },
+        "4": {
+          "id": "i2k4l8",
+          "text": "MPesa has made it so convenient to pay bills. I can do it right from my phone!",
+          "datetime": "2023-07-13T14:05:00",
+          "user_id": "user654"
+        },
+        "5": {
+          "id": "m7n9p3",
+          "text": "The customer support provided by MPesa is excellent. They are quick to respond and resolve any issues.",
+          "datetime": "2023-07-13T15:10:00",
+          "user_id": "user987"
+        },
+        "6": {
+          "id": "q5r7t2",
+          "text": "I've had a great experience using MPesa for mobile payments. It's fast and reliable.",
+          "datetime": "2023-07-13T16:25:00",
+          "user_id": "user246"
+        },
+        "7": {
+          "id": "u3v5w7",
+          "text": "MPesa has a wide network of agents, making it easy to deposit or withdraw cash.",
+          "datetime": "2023-07-13T17:30:00",
+          "user_id": "user579"
+        },
+        "8": {
+          "id": "x9y1z4",
+          "text": "The transaction fees charged by MPesa are reasonable and transparent.",
+          "datetime": "2023-07-13T18:55:00",
+          "user_id": "user864"
+        },
+        "9": {
+          "id": "d6c3b2",
+          "text": "I feel empowered by MPesa's mobile banking services. It's like having a bank in my pocket.",
+          "datetime": "2023-07-13T19:45:00",
+          "user_id": "user753"
+        },
+        "10": {
+          "id": "f5e2d1",
+          "text": "I've encountered some glitches while using MPesa. It can be frustrating at times.",
+          "datetime": "2023-07-13T20:20:00",
+          "user_id": "user951"
+        },
+        "11": {
+          "id": "h4g6j8",
+          "text": "MPesa's transaction limits can be restrictive, especially for larger amounts.",
+          "datetime": "2023-07-13T21:15:00",
+          "user_id": "user852"
+        },
+        "12": {
+          "id": "k7l1m9",
+          "text": "I've had some issues with delayed transfers on MPesa. It can be inconvenient.",
+          "datetime": "2023-07-13T22:05:00",
+          "user_id": "user753"
+        },
+        "13": {
+          "id": "n3p5q2",
+          "text": "The user interface of MPesa could be improved. It feels outdated and clunky.",
+          "datetime": "2023-07-13T23:30:00",
+          "user_id": "user864"
+        },
+        "14": {
+          "id": "r9s1t4",
+          "text": "MPesa's customer support needs improvement. It takes a long time to get a response.",
+          "datetime": "2023-07-14T00:15:00",
+          "user_id": "user579"
+        },
+        "15": {
+          "id": "u2v4w6",
+          "text": "I've had a negative experience with MPesa's security. There have been unauthorized transactions.",
+          "datetime": "2023-07-14T01:20:00",
+          "user_id": "user246"
+        },
+        "16": {
+          "id": "x8y9z1",
+          "text": "MPesa's bill payment feature is unreliable. It often fails to process payments.",
+          "datetime": "2023-07-14T02:40:00",
+          "user_id": "user987"
+        },
+        "17": {
+          "id": "a2b3c4",
+          "text": "The transaction fees on MPesa are too high. It adds up quickly, especially for frequent users.",
+          "datetime": "2023-07-14T04:05:00",
+          "user_id": "user456"
+        },
+        "18": {
+          "id": "d5e6f7",
+          "text": "I find MPesa's mobile banking services confusing. It's not user-friendly.",
+          "datetime": "2023-07-14T05:10:00",
+          "user_id": "user123"
+        },
+        "19": {
+          "id": "g8h9j1",
+          "text": "MPesa lacks a sufficient number of agents in my area. It's inconvenient for cash transactions.",
+          "datetime": "2023-07-14T06:25:00",
+          "user_id": "user321"
+        },
+        "20": {
+          "id": "k1l3m7",
+          "text": "MPesa has been a lifesaver for me. It's helped me during emergencies and unexpected expenses.",
+          "datetime": "2023-07-14T07:30:00",
+          "user_id": "user654"
+        },
+        "21": {
+          "id": "n2p4q6",
+          "text": "I've had some issues with MPesa's app crashing. It needs better stability.",
+          "datetime": "2023-07-14T08:55:00"
+        }
+    }      
+}
