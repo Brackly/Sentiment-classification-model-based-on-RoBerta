@@ -11,6 +11,11 @@ def fetch_reviews(text):
       reviews = json.load(file)
   return reviews[text] if text in reviews.keys() else None
 
+def fetch_preds():
+    with open('preds.json', 'r') as file:
+      preds = json.load(file)
+    return preds
+
 
 def get_sentiment(text):
   task='sentiment'

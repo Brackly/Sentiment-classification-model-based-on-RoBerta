@@ -1,4 +1,4 @@
-from model import get_sentiment
+from model import get_sentiment,fetch_preds
 from flask import Flask, request
 from flask_cors import CORS
 
@@ -15,6 +15,10 @@ def sentiment():
     text = reqdata['text']
     sentiment = get_sentiment(text)
     return {"response":sentiment}
+
+@app.route('/predictions', methods=['POST'])
+def sentiment():
+    return {"response":fetch_preds()}
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)

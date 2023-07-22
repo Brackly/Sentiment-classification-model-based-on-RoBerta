@@ -1,0 +1,129 @@
+[
+    {
+        "29485": [
+            {"product_id": 825, "predicted_quantity": 2},
+            {"product_id": 822, "predicted_quantity": 2},
+            {"product_id": 798, "predicted_quantity": 2},
+            {"product_id": 707, "predicted_quantity": 1},
+            {"product_id": 780, "predicted_quantity": 1},
+            {"product_id": 812, "predicted_quantity": 2},
+            {"product_id": 751, "predicted_quantity": 1},
+            {"product_id": 845, "predicted_quantity": 1},
+            {"product_id": 884, "predicted_quantity": 1},
+            {"product_id": 833, "predicted_quantity": 1},
+            {"product_id": 885, "predicted_quantity": 1},
+            {"product_id": 851, "predicted_quantity": 2},
+            {"product_id": 898, "predicted_quantity": 2},
+            {"product_id": 776, "predicted_quantity": 1},
+            {"product_id": 735, "predicted_quantity": 1},
+            {"product_id": 775, "predicted_quantity": 1}
+                ]
+    },
+    {
+        "29531": [
+            {"product_id": 812, "predicted_quantity": 2},
+            {"product_id": 846, "predicted_quantity": 2},
+            {"product_id": 893, "predicted_quantity": 2},
+            {"product_id": 765, "predicted_quantity": 3},
+            {"product_id": 766, "predicted_quantity": 3},
+            {"product_id": 760, "predicted_quantity": 1},
+            {"product_id": 869, "predicted_quantity": 2},
+            {"product_id": 712, "predicted_quantity": 2},
+            {"product_id": 738, "predicted_quantity": 1},
+            {"product_id": 727, "predicted_quantity": 1}
+            ]
+    },
+    {
+        "29546": [
+            {"product_id": 914, "predicted_quantity": 1},
+            {"product_id": 854, "predicted_quantity": 2},
+            {"product_id": 830, "predicted_quantity": 2},
+            {"product_id": 764, "predicted_quantity": 3},
+            {"product_id": 770, "predicted_quantity": 2},
+            {"product_id": 874, "predicted_quantity": 2},
+            {"product_id": 767, "predicted_quantity": 2},
+            {"product_id": 777, "predicted_quantity": 1},
+            {"product_id": 729, "predicted_quantity": 1},
+            {"product_id": 752, "predicted_quantity": 2},
+            {"product_id": 779, "predicted_quantity": 3},
+            {"product_id": 731, "predicted_quantity": 2}
+            ]
+    },
+    {
+        "29568": [
+            {"product_id": 874, "predicted_quantity": 2},
+            {"product_id": 756, "predicted_quantity": 2},
+            {"product_id": 830, "predicted_quantity": 3},
+            {"product_id": 900, "predicted_quantity": 3},
+            {"product_id": 766, "predicted_quantity": 2},
+            {"product_id": 903, "predicted_quantity": 2},
+            {"product_id": 911, "predicted_quantity": 1},
+            {"product_id": 755, "predicted_quantity": 2},
+            {"product_id": 907, "predicted_quantity": 2},
+            {"product_id": 897, "predicted_quantity": 2},
+            {"product_id": 712, "predicted_quantity": 2},
+            {"product_id": 794, "predicted_quantity": 1},
+            {"product_id": 821, "predicted_quantity": 1},
+            {"product_id": 735, "predicted_quantity": 1},
+            {"product_id": 841, "predicted_quantity": 2},
+            {"product_id": 781, "predicted_quantity": 3}
+            ]
+    },
+    {
+        "29584": [
+            {"product_id": 849, "predicted_quantity": 1},
+            {"product_id": 845, "predicted_quantity": 1},
+            {"product_id": 712, "predicted_quantity": 1}
+            ]
+    },
+    {
+        "29612": [
+            {"product_id": 778, "predicted_quantity": 1},
+            {"product_id": 763, "predicted_quantity": 3},
+            {"product_id": 796, "predicted_quantity": 2},
+            {"product_id": 825, "predicted_quantity": 2},
+            {"product_id": 768, "predicted_quantity": 1},
+            {"product_id": 887, "predicted_quantity": 1},
+            {"product_id": 757, "predicted_quantity": 1},
+            {"product_id": 714, "predicted_quantity": 2},
+            {"product_id": 770, "predicted_quantity": 1}
+            ]
+    },
+    {
+        "29638": [
+            {"product_id": 827, "predicted_quantity": 2},
+            {"product_id": 766, "predicted_quantity": 2},
+            {"product_id": 878, "predicted_quantity": 1},
+            {"product_id": 813, "predicted_quantity": 2},
+            {"product_id": 836, "predicted_quantity": 1},
+            {"product_id": 828, "predicted_quantity": 1},
+            {"product_id": 820, "predicted_quantity": 1},
+            {"product_id": 890, "predicted_quantity": 2},
+            {"product_id": 776, "predicted_quantity": 2},
+            {"product_id": 754, "predicted_quantity": 1}
+            ]
+    },
+    {
+        "29644": [{"product_id": 854, "predicted_quantity": 1},
+                {"product_id": 824, "predicted_quantity": 2},
+                {"product_id": 891, "predicted_quantity": 1},
+                {"product_id": 713, "predicted_quantity": 2},
+                {"product_id": 901, "predicted_quantity": 2},
+                {"product_id": 775, "predicted_quantity": 2}
+                ]
+    },
+    {
+        "29653": [
+            {"product_id": 847, "predicted_quantity": 1},
+            {"product_id": 890, "predicted_quantity": 2},
+            {"product_id": 909, "predicted_quantity": 2},
+            {"product_id": 867, "predicted_quantity": 2},
+            {"product_id": 729, "predicted_quantity": 1},
+            {"product_id": 906, "predicted_quantity": 1},
+            {"product_id": 775, "predicted_quantity": 1},
+            {"product_id": 739, "predicted_quantity": 1},
+            {"product_id": 718, "predicted_quantity": 1},
+            {"product_id": 761, "predicted_quantity": 1}
+        ]
+    }
+]
