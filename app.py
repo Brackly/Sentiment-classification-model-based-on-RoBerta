@@ -10,7 +10,7 @@ def hello():
     return {"status":"Healthy!"}
 
 @app.route('/sentiment', methods=['POST'])
-def sentiment():
+def sentiments():
     reqdata = request.get_json()
     text = reqdata['text']
     sentiment = get_sentiment(text)

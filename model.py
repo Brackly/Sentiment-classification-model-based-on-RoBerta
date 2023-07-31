@@ -7,15 +7,14 @@ import json
 
 def fetch_reviews(text):
   # Read the reviews from the JSON file
-  with open('reviews.json', 'r') as file:
+  with open('amazon.json', 'r') as file:
       reviews = json.load(file)
-  return reviews[text] if text in reviews.keys() else None
+  return [review for review in reviews if review["asin"] == text]
 
 def fetch_preds():
     with open('preds.json', 'r') as file:
       preds = json.load(file)
     return preds
-
 
 def get_sentiment(text):
   task='sentiment'
@@ -31,12 +30,14 @@ def get_sentiment(text):
   }
 
   # model.save_pretrained(MODEL)
-  res={}
+  res=[]
   reviews=fetch_reviews(text)
   if reviews == None:
       return {"response":"Comments for the querry do not appear in the database"}
   else:
-      for index, review in reviews.items():
+      for review in reviews:
+          if len(review["text"]) >2000:
+             review["text"] = review["text"][0:500]
           encoded_input = tokenizer(review["text"], return_tensors='pt')
           output = model(**encoded_input)
           scores = output[0][0].detach().numpy()
@@ -46,5 +47,5 @@ def get_sentiment(text):
           sentiment=labels[ranking[0]]
           review["sentiment"]=sentiment
           review["ranking"]=str(ranking[0])
-          res[index]=review
+          res.append(review)
   return res
